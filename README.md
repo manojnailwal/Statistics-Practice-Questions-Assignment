@@ -2,7 +2,7 @@ README
 
 Advanced Statistics Question Bank
 
-This repository contains a collection of 25 statistics questions and their corresponding answers, covering a range of advanced statistical topics.
+This repository contains a collection of 24 statistics questions and their corresponding answers, covering a range of advanced statistical topics.
 
 Topics Covered:
 
